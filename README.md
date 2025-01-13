@@ -1,6 +1,7 @@
 # merge-together
-I 
-like 
-to 
-eat 
+I
+like
+to
+eat
 ice cream
+I like to read
